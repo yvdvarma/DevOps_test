@@ -1,2 +1,3 @@
+#this is host file
 [localhost]
 127.0.0.1
